@@ -1,0 +1,6 @@
+{
+  "name": "FreshSip Juice Shop",
+  "description": "Modern artisanal fruit juice e-commerce shop offering 100% cold-pressed juices, fruit shakes, smoothies, customizable toppings, and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
